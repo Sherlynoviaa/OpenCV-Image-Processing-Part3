@@ -47,7 +47,7 @@ Berdasarkan praktikum ini, dapat disimpulkan bahwa:
 ## Video Presentasi & Demonstrasi
 Penjelasan lengkap mengenai proses koding, analisis baris per baris, dan hasil eksekusi program dapat dilihat melalui tautan video berikut:
 
-👉 [https://youtu.be/UQg2YkZBokI]
+👉 [https://youtu.be/jfVwUtapYp8?si=AcoYUEJ6yNYyFD56]
 
 ---
 
