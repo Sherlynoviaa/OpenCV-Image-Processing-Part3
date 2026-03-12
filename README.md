@@ -51,6 +51,3 @@ Penjelasan lengkap mengenai proses koding, analisis baris per baris, dan hasil e
 
 ---
 
-## Referensi Tambahan
-- **OpenCV Documentation:** [docs.opencv.org](https://docs.opencv.org/)
-- **Tutorial Video:** Sumber praktik dari kanal YouTube pemateri.
